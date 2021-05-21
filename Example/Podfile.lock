@@ -1,0 +1,23 @@
+PODS:
+  - CocoaAsyncSocket (7.6.5)
+  - ZYCocoaHTTPServer (0.1.0):
+    - CocoaAsyncSocket
+
+DEPENDENCIES:
+  - ZYCocoaHTTPServer (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+
+EXTERNAL SOURCES:
+  ZYCocoaHTTPServer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  ZYCocoaHTTPServer: a9cfad5b56a86fdf76588c42902b894991857c3a
+
+PODFILE CHECKSUM: c341c5fa4e747a04d4334c494d91bf32723f544d
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module ZYCocoaHTTPServer {
+  umbrella header "ZYCocoaHTTPServer-umbrella.h"
+
+  export *
+  module * { export * }
+}

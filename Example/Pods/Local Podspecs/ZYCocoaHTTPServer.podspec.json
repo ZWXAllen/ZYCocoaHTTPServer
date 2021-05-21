@@ -1,0 +1,27 @@
+{
+  "name": "ZYCocoaHTTPServer",
+  "version": "0.1.0",
+  "summary": "A short description of ZYCocoaHTTPServer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ZWXAllen/ZYCocoaHTTPServer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZWXAllen": "young.zhang@ecovacs.com"
+  },
+  "source": {
+    "git": "https://github.com/ZWXAllen/ZYCocoaHTTPServer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZYCocoaHTTPServer/Classes/**/*",
+  "dependencies": {
+    "CocoaAsyncSocket": [
+
+    ]
+  }
+}
